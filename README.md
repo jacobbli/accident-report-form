@@ -15,11 +15,15 @@ git clone git@github.com:jlee93115/accident-report-form.git
 
 # Usage
 
-1. Open the `accident_form.xlsm`.
+1. Open `accident_form.xlsm`.
 
 2. If prompted, click `Enable Editing`.
 
+![Enable Editing](./readme_images/enable_editing.png)
+
 3. If prompted, click `Enable Content` to allow macros.
+
+![Enable Content](./readme_images/enable_content.png)
 
 4. Click `Click to Start` and enter the number of vehicles involved in the accident.
 

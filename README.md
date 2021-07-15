@@ -1,10 +1,8 @@
 # Accident Report Form
 
-A bare bones accident report form for use at my previous job as a car share customer service agent. This form was meant to automate parts of our vehicle accident procedure and clearly show to our agents what information we need from the involved parties.
+An accident report form used by customer service staff at one of my previous jobs. This form was meant to automate parts of our vehicle accident procedure and clearly show to our agents what information we need from the involved parties.
 
 We were required to write a separate call ticket, which is why I added the `Ticket Details` feature for easy copy/paste.
-
-For anonymity, names and emails have been replaced with generic values.
 
 # Installation
 

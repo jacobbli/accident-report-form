@@ -1,9 +1,5 @@
 # Accident Report Form
 
-An accident report form used by customer service staff at one of my previous jobs. This form was meant to automate parts of our vehicle accident procedure and clearly show to our agents what information we need from the involved parties.
-
-We were required to write a separate call ticket, which is why I added the `Ticket Details` feature for easy copy/paste.
-
 # Installation
 
 Clone the repository.
